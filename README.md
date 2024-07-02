@@ -23,12 +23,15 @@ Users should be able to:
 
 ### Screenshot
 Desktop View
+
 ![](./assets/images/Screenshot%20(119).png)
 
 Mobile View 
+
 ![](./assets/images/Screenshot%20(120).png)
 
 Mobile Active View
+
 ![](./assets/images/Screenshot%20(121).png)
 
 ### Links
