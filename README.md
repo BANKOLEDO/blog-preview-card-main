@@ -34,7 +34,7 @@ Mobile Active View
 ### Links
 
 - Solution URL: [My Solution](https://github.com/BANKOLEDO/blog-preview-card-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Page Preview](https://bankoledo.github.io/blog-preview-card-main/)
 
 ## My process
 
